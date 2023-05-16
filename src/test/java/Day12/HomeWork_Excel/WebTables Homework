@@ -1,0 +1,11 @@
+Go to URL: https://the-internet.herokuapp.com/tables
+Print the entire table
+Print All Rows
+Print Last row data only
+Print column 5 data in the table body
+Write a method that accepts 3 parameters
+parameter 1 = table
+parameter 2 = row number
+parameter 3 = column number
+printData(table,3,4); => prints 
+printData(table, 3,4,) => prints data in 3rd row 4th Column of table specified 
